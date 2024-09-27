@@ -1,4 +1,4 @@
-package gate
+package netx
 
 import (
 	"encoding/binary"
